@@ -1,0 +1,14 @@
+# Dataframes and matrices
+pandas
+numpy
+
+# Graphics
+matplotlib.pyplot
+seaborn
+
+
+unicodedata
+re
+nltk
+sklearn
+wordcloud
